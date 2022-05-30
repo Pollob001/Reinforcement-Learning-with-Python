@@ -1,0 +1,2 @@
+# Reinforcement-Learning-with-Python
+# Hands-On-Reinforcement-Learning-with-Python    This is the code repository for [Hands-On-Reinforcement-Learning-with-Python] **Master reinforcement and deep reinforcement learning using OpenAI Gym and TensorFlow**  ## What is this book about? Reinforcement Learning (RL) is the trending and most promising branch of artificial intelligence. Hands-On Reinforcement learning with Python will help you master not only the basic reinforcement learning algorithms but also the advanced deep reinforcement learning algorithms.
